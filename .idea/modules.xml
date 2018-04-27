@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:///private/tmp/LonelyTwitter/LonelyTwitter.iml" filepath="/private/tmp/LonelyTwitter/LonelyTwitter.iml" />
-      <module fileurl="file:///private/tmp/LonelyTwitter/app/app.iml" filepath="/private/tmp/LonelyTwitter/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LonelyTwitterRefactoring.iml" filepath="$PROJECT_DIR$/LonelyTwitterRefactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
